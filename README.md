@@ -3,7 +3,7 @@
 ## I am Front End developer.
 
 - 🌍  I'm based in Tallinn, Estonia
-- 🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a>
+- 🖥️  See my portfolio at <a target="_blank" rel="noreferrer">Portfolio</a>
 - 🧠  Currently learning Tailwind
 - 🤝  I'm open to collaborating on interesting projects as a developer
 
